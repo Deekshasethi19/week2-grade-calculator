@@ -1,0 +1,15 @@
+RESULTS SUMMARY
+
+Deeksha Sethi
+Average: 88.3
+Grade: B
+
+Vivansh Mehra
+Average: 81.3
+Grade: B
+
+CLASS STATISTICS
+
+Class Average: 84.8
+Highest Average: 88.3
+Lowest Average: 81.3
